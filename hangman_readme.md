@@ -1,2 +1,2 @@
-Copy this file into http://www.codeskulptor.org/ and run.
+Copy the code into http://www.codeskulptor.org/ and run.
 Have fun!
